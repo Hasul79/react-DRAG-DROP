@@ -16,18 +16,18 @@ const App = () => {
       id: 2,
       title: <h1>In Progress</h1>,
       items: [
-        { id: 4, title: '4. Reading' },
-        { id: 5, title: '5. writing' },
-        { id: 6, title: '6. drawing' },
+        { id: 4, title: '4. reading' },
+        { id: 5, title: '5. written' },
+        { id: 6, title: '6. drawen' },
       ],
     },
     {
       id: 3,
       title: <h1>Done</h1>,
       items: [
-        { id: 7, title: '7. Poyti w magazin' },
-        { id: 8, title: '8. wykinut musor' },
-        { id: 9, title: '9. Pakushat' },
+        { id: 7, title: '7. read' },
+        { id: 8, title: '8. writting' },
+        { id: 9, title: '9. drawing' },
       ],
     },
   ]);
